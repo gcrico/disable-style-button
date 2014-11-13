@@ -1,0 +1,12 @@
+{
+    "name": "disablestylesbutton",
+    "title": "Disable Style Button",
+    "id": "jid1-FU8jebOiOyqCLQ",
+    "description": "This extension adds a button in the main toolbar that toogle author styles for the current tab.",
+    "author": "guillaume-crico",
+    "license": "MPL 2.0",
+    "version": "0.1",
+    "permissions": {
+        "private-browsing": true
+     }
+}
